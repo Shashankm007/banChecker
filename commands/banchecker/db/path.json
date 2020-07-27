@@ -1,0 +1,5 @@
+{
+    "unbannedP": "commands/banchecker/db/unbanned.json",
+    "announceP": "commands/banchecker/db/announce.json",
+    "watchP": "commands/banchecker/db/watch.json"
+}

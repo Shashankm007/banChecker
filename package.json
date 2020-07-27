@@ -1,0 +1,23 @@
+{
+  "name": "commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "bitskins": "^1.0.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.2.0",
+    "gulp-update": "0.0.2",
+    "steam": "^1.4.1",
+    "steam-resources": "^1.0.0",
+    "steamapi": "^2.0.7",
+    "thirty-two": "^1.0.2",
+    "totp": "0.0.1"
+  }
+}
